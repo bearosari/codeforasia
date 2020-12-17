@@ -6,3 +6,5 @@ You are a social enterprise headquartered in Singapore. Every year you run an on
 
 * When I am logged in as a CodeNomad talent,I can complete a project proposal form (sample proposal) to apply for support from Code for Asia. 
 * When I am logged in as an Admin, I can view the cost per pax for a project.
+
+![Landing Page](landing-page.png)
